@@ -389,6 +389,9 @@
 						"light": "Light",
 						"dark": "Dark",
 						"bronze": "Bronze light"
+						"autumn": "autumn"
+						"ocean":"ocean"
+						"cosmic":"cosmic"
 					}
 				},
 				"fontSelect": {
